@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently intern  on __@rumahatsiri__ 
+-  I'm currently working at __@rumahatsiri__ as an HR Intern Spesificly in Learning and Development 🎓
+- 🌱 I’m currently learning Onboarding, Learning and Growth, and Performance management. I also enjoy coding for website development.
