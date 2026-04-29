@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 -  I'm currently working at __@rumahatsiri__ as an HR Intern Spesificly in Learning and Development 🎓
 - 🌱 I’m currently learning Onboarding, Learning and Growth, and Performance management. I also enjoy coding for website development.
+
+![alt text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBwd2Vkbms2eXFmeDF1eXEzaDk5ZHMxOXk1cDU4dW05OHZ4dzNucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfKiMjWolBzuWkdbw0/giphy.gif)
