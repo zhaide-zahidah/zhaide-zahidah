@@ -1,6 +1,6 @@
 ## Hello World! I'm Zahidah 👋
 
-<img width="1850" height="100" alt="Image" src="https://github.com/user-attachments/assets/daf06158-152b-4f66-b92c-f2c5ef746851" />
+<img width="1700" height="460" alt="Image" src="https://github.com/user-attachments/assets/daf06158-152b-4f66-b92c-f2c5ef746851" />
 
 <!--
 **zhaide-zahidah/zhaide-zahidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
