@@ -1,5 +1,7 @@
 ## Hello World! I'm Zahidah 👋
 
+![Zahidah](img/github-header-banner.png)
+
 <!--
 **zhaide-zahidah/zhaide-zahidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
